@@ -1,7 +1,7 @@
 import Button from "react-bootstrap/Button";
 import Card from "react-bootstrap/Card";
 
-function cardCopm(props) {
+function CardCopm(props) {
   return (
     <Card style={{ width: "18rem" }}>
       <Card.Img variant="top" src={props.image} />
@@ -14,4 +14,4 @@ function cardCopm(props) {
   );
 }
 
-export default cardCopm;
+export default CardCopm;

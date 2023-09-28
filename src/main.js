@@ -1,5 +1,5 @@
 import data from "./data.json";
-import cardCopm from "./card";
+import CardCopm from "./card";
 
 function Main() {
   return (
@@ -15,7 +15,7 @@ function Main() {
       >
         {data.map(function (item) {
           return (
-            <cardComp
+            <CardCopm
               image={item.image_url}
               title={item.title}
               description={item.description}
