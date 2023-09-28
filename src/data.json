@@ -4,34 +4,34 @@
     "title": "Cat",
     "description": "A cat is a small, carnivorous mammal often kept as a pet for its playful and independent nature.",
     "category": "",
-    "price": ""
+    "price": "49"
   },
   {
     "image_url": "https://images.unsplash.com/photo-1603714315652-4c5bf680f918?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NjR8fGdlcm1hbiUyMHNoZXBoZXJkJTIwZG9nfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
     "title": "Dog",
     "description": "",
     "category": "",
-    "price": ""
+    "price": "249"
   },
   {
     "image_url": "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8cHJvZHVjdHxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
     "title": "Camera",
     "description": "A camera is an optical instrument used to capture images. It works by focusing light onto a photosensitive surface, which then records the image. Cameras come in many different types, including digital cameras, film cameras, and video cameras.",
     "category": "",
-    "price": ""
+    "price": "399"
   },
   {
     "image_url": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fHByb2R1Y3R8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
     "title": "Nike",
     "description": "Nike, Inc. is an American sportswear company headquartered in Beaverton, Oregon. It was founded in 1964 as Blue Ribbon Sports by Bill Bowerman, a track-and-field coach at the University of Oregon, and his former student Phil Knight.",
     "category": "",
-    "price": ""
+    "price": "99"
   },
   {
     "image_url": "https://images.unsplash.com/photo-1587368062478-e804f5e2a55a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Y2FtcCUyMG5vdXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
     "title": "camp nou",
     "description": "Camp Nou is a football stadium located in Barcelona, Spain. It has been the home stadium of FC Barcelona since its completion in 1957123. With a seating capacity of 99,354, it is the largest stadium in Spain and Europe, and the fifth largest football stadium in the world3. ",
     "category": "",
-    "price": ""
+    "price": "Priceless"
   }
 ]

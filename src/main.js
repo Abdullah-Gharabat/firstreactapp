@@ -19,6 +19,7 @@ function Main() {
               image={item.image_url}
               title={item.title}
               description={item.description}
+              price={item.price}
             />
           );
         })}
