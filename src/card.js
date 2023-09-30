@@ -10,7 +10,6 @@ const Card = ({ title, description, imageUrl }) => {
   return (
     <div className="col-md-4 mb-4">
       <div className="card">
-        {/* Image */}
         <img src={imageUrl} className="card-img-top" alt={title} />
 
         <div className="card-body">
@@ -21,14 +20,12 @@ const Card = ({ title, description, imageUrl }) => {
           </button>
         </div>
       </div>
-      {/* Modal */}
       <div
         className={`modal ${showModal ? "show" : ""}`}
         style={{ display: showModal ? "block" : "none" }}
         tabIndex="-1"
         role="dialog"
       >
-        {/* Modal content */}
         <div className="modal-dialog" role="document">
           <div className="modal-content">
             <div className="modal-header">
